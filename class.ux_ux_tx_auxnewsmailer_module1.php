@@ -2,10 +2,10 @@
 /** 
 * User-Extension of ux_tx_auxnewsmailer_core class.
 *
-* @author����Philip Almeida <philip.almeida@gmail.com>
+* @author Philip Almeida <philip.almeida@gmail.com>
 */
 $LANG->includeLLFile('EXT:aux_newsmailer_split_cat/locallang_db.xml');
-class ux_ux_tx_auxnewsmailer_core extends ux_tx_auxnewsmailer_core {	
+class ux_ux_tx_auxnewsmailer_module1 extends ux_tx_auxnewsmailer_core {	
 	var $prefixId = "tx_auxnewsmailer_pi1";
 	var	$limit=10;	
 	var	$limit_create=10;	
@@ -1159,5 +1159,7 @@ class ux_ux_tx_auxnewsmailer_core extends ux_tx_auxnewsmailer_core {
 	}
 	
 }
-
+if (defined('TYPO3_MODE') && $TYPO3_CONF_VARS[TYPO3_MODE]['XCLASS']['ext/aux_newsmailer_split_cat/class.ux_ux_tx_auxnewsmailer_module1.php'])	{
+		include_once($TYPO3_CONF_VARS[TYPO3_MODE]['XCLASS']['ext/aux_newsmailer_split_cat/class.ux_ux_tx_auxnewsmailer_module1.php']);
+	}
 ?>

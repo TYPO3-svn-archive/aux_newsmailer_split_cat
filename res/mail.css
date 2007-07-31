@@ -1,0 +1,48 @@
+body{
+	text-align:center;
+	background-color: #ffffff; 
+	color: #000000; 
+	font-family: verdana,trebuchet ms,Arial, sans serif;
+	margin 0 auto;
+font-size:12px;
+
+}
+
+.pageheader{
+  	height:10;
+  	width:400;
+  	text-align:left;
+}
+
+.newspage {
+	border:0px solid #000000;
+	text-align:left;
+	width:400px;
+}
+
+.newstitle {font-size:110%;font-weight:bold}
+.newsdate {font-size:80%}
+.newsheader {clar:both;margin-top:5px;margin-bottom:10px;border:0px solid #0000ff}
+.newslist {clear:both}
+.newsfooter {clear:both;border:0px solid #00ff00}
+.profilemsg {margin-top:10px;font-size:70%;clear:both;border:0px solid #ff0000}
+.profilelink {clear:both}
+
+.newsmailitem {padding:6px;margin:3px;clear:both;text-align:left;border-bottom:1px solid #000000}
+.newsitemtext {clear:both;float:left}
+.newsmaildate {font-size:80%}
+.newsmailtitle {font-weight:bold;margin-bottom:6px}
+.newsmailshort {margin-bottom:3px}
+.newsmailimage {float:right;margin:3px}
+.newsmailbody {float:left}
+.newsmaillink {float:left}
+.ffclear {clear:both}
+
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline; color: red;}
+
+.profilelink A{font-size:70%}
+
+.cat_title{font-size:17px;}

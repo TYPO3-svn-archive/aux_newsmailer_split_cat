@@ -1,0 +1,3 @@
+plugin.tx_auxnewsmailer_pi1{ 
+file.css = EXT:res/css.css
+}

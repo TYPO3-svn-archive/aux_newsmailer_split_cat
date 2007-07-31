@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'aux_newsmailer_split_cat'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_auxnewsmailer_sendstat">Newsletter Send Statistics</label>
+			<label index="tx_auxnewsmailer_sendstat.idmsg">Message ID</label>
+			<label index="tx_auxnewsmailer_sendstat.create_total_msg">Total Messages Created</label>
+			<label index="tx_auxnewsmailer_sendstat.create_total_time">Time to Create Total Messages</label>
+			<label index="tx_auxnewsmailer_sendstat.create_total_time_seconds">Time to Create Total Messages in Seconds</label>			
+			<label index="tx_auxnewsmailer_sendstat.send_total_msg">Total Messages Sended</label>
+			<label index="tx_auxnewsmailer_sendstat.send_total_time">Time to Send Total Messages</label>
+			<label index="tx_auxnewsmailer_sendstat.send_total_time_seconds">Time to Send Total Messages in Seconds</label>									
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcat">Activate news category template</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatid">Use news link defined in category visualization page</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatnumber">Activate Number Newsletter Template</label>
+			<label index="number_tag">n�.</label>
+			<label index="nonews_tag">There are no news to scan</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmpllinkstyle">Inline-Style code for href template</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplmsgbounce">Send Message Bounce Number</label>	
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcrtbounce">Create Message Bounce Number</label>										
+			<label index="tx_auxnewsmailersplitcat.duration.I.11">Day 1</label>			
+			<label index="tx_auxnewsmailersplitcat.duration.I.12">Day 2</label>	 
+			<label index="tx_auxnewsmailersplitcat.duration.I.13">Day 3</label>			
+			<label index="tx_auxnewsmailersplitcat.duration.I.14">Day 15</label>	
+			<label index="tx_auxnewsmailersplitcat.duration.I.15">Day 16</label>			
+			<label index="tx_auxnewsmailersplitcat.duration.I.16">Day 17</label>									
+		</languageKey>
+		<languageKey index="pt" type="array">
+			<label index="tx_auxnewsmailer_sendstat">Estatisticas de Envio da Newsletter</label>
+			<label index="tx_auxnewsmailer_sendstat.idmsg">ID da Mensagem</label>
+			<label index="tx_auxnewsmailer_sendstat.create_total_msg">Total de Mensagens Criadas</label>
+			<label index="tx_auxnewsmailer_sendstat.create_total_time">Tempo para Criar Todas as Mensagens</label>
+			<label index="tx_auxnewsmailer_sendstat.create_total_time_seconds">Tempo para Criar Todas as Mensagens em Segundos</label>			
+			<label index="tx_auxnewsmailer_sendstat.send_total_msg">Total de Mensagens Enviadas</label>
+			<label index="tx_auxnewsmailer_sendstat.send_total_time">Tempo para Enviar Todas as Mensagens</label>
+			<label index="tx_auxnewsmailer_sendstat.send_total_time_seconds">Tempo para Enviar Todas as Mensagens em Segundos</label>						
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcat">Activar template de noticias com categoria</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatid">Utilizar o link de visualização de notícias da categoria</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatnumber">Activar Template de número de Newsletter</label>
+			<label index="number_tag">n.º</label>
+			<label index="nonews_tag">Sem noticias para mostrar</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmpllinkstyle">Código Inline-Style para template de links</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplmsgbounce">N.º de Mensagens Enviadas por varredura</label>	
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcrtbounce">N.º de Mensagens Criadas por varredura</label>							
+			<label index="tx_auxnewsmailersplitcat.duration.I.11">Dia 1</label>			
+			<label index="tx_auxnewsmailersplitcat.duration.I.12">Dia 2</label>	 
+			<label index="tx_auxnewsmailersplitcat.duration.I.13">Dia 3</label>			
+			<label index="tx_auxnewsmailersplitcat.duration.I.14">Dia 15</label>	
+			<label index="tx_auxnewsmailersplitcat.duration.I.15">Dia 16</label>			
+			<label index="tx_auxnewsmailersplitcat.duration.I.16">Dia 17</label>	 							
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="pt" type="array">
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcat" type="integer">240654999</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatid" type="integer">94721340</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatnumber" type="integer">255011974</label>
+			<label index="number_tag" type="integer">127682717</label>
+			<label index="nonews_tag" type="integer">93278501</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="pt" type="array">
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcat">Activate news category template</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatid">Use news link defined in category visualization page</label>
+			<label index="tx_auxnewsmailer_control.tx_auxnewsmailersplitcat_tmplcatnumber">Activate Number Newsletter Template</label>
+			<label index="number_tag">n�.</label>
+			<label index="nonews_tag">There are no news to scan</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>

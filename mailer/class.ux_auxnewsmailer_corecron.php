@@ -2,7 +2,7 @@
 /** 
 * User-Extension of ux_tx_auxnewsmailer_core class.
 *
-* @author����Philip Almeida <philip.almeida@gmail.com>
+* @author Philip Almeida <philip.almeida@gmail.com>
 */
 
 class ux_auxnewsmailer_corecron extends auxnewsmailer_corecron {	
